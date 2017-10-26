@@ -26,4 +26,6 @@ int main()
        cout << *p << "  ";
    }
    cout<<"}";
+   
+return 0;
 }
